@@ -1,0 +1,1 @@
+The goal of this project is to create a simple tool to find the sports book with the best odds for a particular bet. 
