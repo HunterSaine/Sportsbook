@@ -1,3 +1,5 @@
 # Description: Main file for the application
-def main():
-    print("Hello World")
+def fetch_data():
+    # Fetch data from the API
+    # Return the data
+    pass
