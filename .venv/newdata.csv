@@ -1,0 +1,855 @@
+sport_key,sport_title,commence_time,home_team,away_team,title,key,last_update,name,price,point
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,DraftKings,h2h,2024-08-09T01:34:53Z,Baltimore Ravens,124,
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,FanDuel,spreads,2024-08-09T01:34:53Z,Kansas City Chiefs,-148,
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,Caesars,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-118,3.0
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-102,-3.0
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,LowVig.ag,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,138,
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,BetRivers,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-164,
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,BetMGM,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,-110,3.0
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,MyBookie.ag,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-110,-3.0
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,BetUS,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-06T00:20:00Z,Kansas City Chiefs,Baltimore Ravens,Bovada,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-155,
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,DraftKings,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-120,3.0
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,100,-3.0
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,LowVig.ag,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,FanDuel,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-150,
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,BetMGM,h2h,2024-08-09T01:36:41Z,Baltimore Ravens,-119,3.0
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,Caesars,spreads,2024-08-09T01:36:41Z,Kansas City Chiefs,-101,-3.0
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,BetRivers,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,MyBookie.ag,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-150,
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,BetUS,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,-115,3.0
+americanfootball_nfl,NFL,2024-09-07T00:20:00Z,Philadelphia Eagles,Green Bay Packers,Bovada,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,104,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,FanDuel,h2h,2024-08-09T01:34:53Z,Baltimore Ravens,125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,DraftKings,spreads,2024-08-09T01:34:53Z,Kansas City Chiefs,-150,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,Caesars,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,-120,3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,BetRivers,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-103,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,BetUS,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,MyBookie.ag,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-155,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,BetOnline.ag,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-115,3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,LowVig.ag,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-105,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,BetMGM,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,123,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Buffalo Bills,Arizona Cardinals,Bovada,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,-158,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,DraftKings,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-116,3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,FanDuel,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-105,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,BetRivers,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-150,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:36:41Z,Baltimore Ravens,-120,3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,MyBookie.ag,spreads,2024-08-09T01:36:41Z,Kansas City Chiefs,100,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,BetOnline.ag,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,130,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,LowVig.ag,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-150,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Atlanta Falcons,Pittsburgh Steelers,BetMGM,h2h,2024-08-09T01:36:42Z,Baltimore Ravens,-120,3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,FanDuel,spreads,2024-08-09T01:36:42Z,Kansas City Chiefs,100,-3.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,DraftKings,h2h,2024-08-09T01:36:43Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,Caesars,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,BetRivers,h2h,2024-08-09T01:34:53Z,Green Bay Packers,-110,2.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,MyBookie.ag,spreads,2024-08-09T01:34:53Z,Philadelphia Eagles,-110,-2.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,LowVig.ag,h2h,2024-08-09T01:36:43Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,BetUS,h2h,2024-08-09T01:36:43Z,Green Bay Packers,-105,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,BetMGM,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-115,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New Orleans Saints,Carolina Panthers,Bovada,h2h,2024-08-09T01:36:43Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,FanDuel,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,DraftKings,h2h,2024-08-09T01:36:41Z,Green Bay Packers,100,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,BetRivers,spreads,2024-08-09T01:36:41Z,Philadelphia Eagles,-110,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,Caesars,h2h,2024-08-09T01:36:42Z,Green Bay Packers,114,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,MyBookie.ag,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-134,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,BetUS,h2h,2024-08-09T01:36:42Z,Green Bay Packers,-105,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-115,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,LowVig.ag,h2h,2024-08-09T01:36:42Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,BetMGM,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Chicago Bears,Tennessee Titans,Bovada,h2h,2024-08-09T01:36:42Z,Green Bay Packers,-105,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,FanDuel,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-115,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,DraftKings,h2h,2024-08-09T01:34:53Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,Caesars,spreads,2024-08-09T01:34:53Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,BetRivers,h2h,2024-08-09T01:36:43Z,Green Bay Packers,-110,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,MyBookie.ag,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-110,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,BetOnline.ag,h2h,2024-08-09T01:36:43Z,Green Bay Packers,100,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,LowVig.ag,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-120,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,BetUS,h2h,2024-08-09T01:36:43Z,Green Bay Packers,-110,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,BetMGM,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-110,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Cincinnati Bengals,New England Patriots,Bovada,h2h,2024-08-09T01:36:43Z,Green Bay Packers,102,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,FanDuel,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-129,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,Caesars,h2h,2024-08-09T01:36:41Z,Green Bay Packers,-111,1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,DraftKings,spreads,2024-08-09T01:36:41Z,Philadelphia Eagles,-110,-1.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,BetRivers,h2h,2024-08-09T01:36:42Z,Green Bay Packers,105,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,MyBookie.ag,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-125,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,LowVig.ag,h2h,2024-08-09T01:36:42Z,Green Bay Packers,-105,1.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-115,-1.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,BetUS,h2h,2024-08-09T01:36:42Z,Green Bay Packers,115,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,BetMGM,spreads,2024-08-09T01:36:42Z,Philadelphia Eagles,-135,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Indianapolis Colts,Houston Texans,Bovada,h2h,2024-08-09T01:36:43Z,Green Bay Packers,-110,2.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,FanDuel,spreads,2024-08-09T01:36:43Z,Philadelphia Eagles,-110,-2.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,Caesars,h2h,2024-08-09T01:34:53Z,Arizona Cardinals,245,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:34:53Z,Buffalo Bills,-300,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,BetRivers,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,-122,7.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,BetUS,spreads,2024-08-09T01:36:43Z,Buffalo Bills,100,-7.0
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,MyBookie.ag,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,230,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-285,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,LowVig.ag,h2h,2024-08-09T01:36:41Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,BetMGM,spreads,2024-08-09T01:36:41Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,Miami Dolphins,Jacksonville Jaguars,Bovada,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,235,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,FanDuel,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-292,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,DraftKings,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,Caesars,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,BetRivers,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,240,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,BetUS,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-305,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,MyBookie.ag,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,-107,6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-114,-6.5
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,LowVig.ag,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,235,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,BetMGM,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-285,
+americanfootball_nfl,NFL,2024-09-08T17:00:00Z,New York Giants,Minnesota Vikings,Bovada,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,FanDuel,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,Caesars,h2h,2024-08-09T01:34:53Z,Arizona Cardinals,218,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,DraftKings,spreads,2024-08-09T01:34:53Z,Buffalo Bills,-295,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,BetRivers,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,MyBookie.ag,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-111,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,LowVig.ag,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,240,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-285,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,BetMGM,h2h,2024-08-09T01:36:41Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,BetUS,spreads,2024-08-09T01:36:41Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Seattle Seahawks,Denver Broncos,Bovada,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,240,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,FanDuel,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-285,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,DraftKings,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,-105,6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-105,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,BetRivers,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,240,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,MyBookie.ag,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-300,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,LowVig.ag,h2h,2024-08-09T01:36:42Z,Arizona Cardinals,255,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,BetMGM,spreads,2024-08-09T01:36:42Z,Buffalo Bills,-310,
+americanfootball_nfl,NFL,2024-09-08T20:05:00Z,Los Angeles Chargers,Las Vegas Raiders,Bovada,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,-110,6.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,FanDuel,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-110,-6.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,Caesars,h2h,2024-08-09T01:34:53Z,Atlanta Falcons,-130,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,BetOnline.ag,spreads,2024-08-09T01:34:53Z,Pittsburgh Steelers,110,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,LowVig.ag,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-110,-2.0
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,DraftKings,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,-110,2.0
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,BetRivers,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-134,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,BetUS,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,114,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,MyBookie.ag,h2h,2024-08-09T01:36:41Z,Atlanta Falcons,-110,-2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,BetMGM,spreads,2024-08-09T01:36:41Z,Pittsburgh Steelers,-110,2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Cleveland Browns,Dallas Cowboys,Bovada,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-143,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,FanDuel,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,118,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,BetRivers,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-110,-2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,Caesars,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,-110,2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,DraftKings,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-135,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,BetUS,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,115,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,MyBookie.ag,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-110,-2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,-110,2.5
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,LowVig.ag,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-130,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,BetMGM,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,110,
+americanfootball_nfl,NFL,2024-09-08T20:25:00Z,Tampa Bay Buccaneers,Washington Commanders,Bovada,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-110,-1.5
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,FanDuel,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,-110,1.5
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,Caesars,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-138,
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,DraftKings,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,108,
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,BetRivers,h2h,2024-08-09T01:34:53Z,Atlanta Falcons,-110,-2.0
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,BetUS,spreads,2024-08-09T01:34:53Z,Pittsburgh Steelers,-111,2.0
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,MyBookie.ag,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-130,
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,BetOnline.ag,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,110,
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,LowVig.ag,h2h,2024-08-09T01:36:41Z,Atlanta Falcons,-112,-2.0
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,BetMGM,spreads,2024-08-09T01:36:41Z,Pittsburgh Steelers,-108,2.0
+americanfootball_nfl,NFL,2024-09-09T00:20:00Z,Detroit Lions,Los Angeles Rams,Bovada,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-130,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,DraftKings,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,110,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,FanDuel,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-107,-2.0
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,BetRivers,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,-103,2.0
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,BetOnline.ag,h2h,2024-08-09T01:36:43Z,Atlanta Falcons,-140,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,LowVig.ag,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,115,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,Caesars,h2h,2024-08-09T01:36:42Z,Atlanta Falcons,-105,-2.5
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,BetMGM,spreads,2024-08-09T01:36:42Z,Pittsburgh Steelers,-115,2.5
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,MyBookie.ag,h2h,2024-08-09T01:36:42Z,Carolina Panthers,194,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,BetUS,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-235,
+americanfootball_nfl,NFL,2024-09-10T00:20:00Z,San Francisco 49ers,New York Jets,Bovada,h2h,2024-08-09T01:36:43Z,Carolina Panthers,-102,4.5
+americanfootball_nfl,NFL,2024-09-13T00:20:00Z,Miami Dolphins,Buffalo Bills,FanDuel,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-120,-4.5
+americanfootball_nfl,NFL,2024-09-13T00:20:00Z,Miami Dolphins,Buffalo Bills,DraftKings,h2h,2024-08-09T01:36:43Z,Carolina Panthers,170,
+americanfootball_nfl,NFL,2024-09-13T00:20:00Z,Miami Dolphins,Buffalo Bills,BetRivers,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-205,
+americanfootball_nfl,NFL,2024-09-13T00:20:00Z,Miami Dolphins,Buffalo Bills,Caesars,h2h,2024-08-09T01:34:53Z,Carolina Panthers,-112,5.0
+americanfootball_nfl,NFL,2024-09-13T00:20:00Z,Miami Dolphins,Buffalo Bills,Bovada,spreads,2024-08-09T01:34:53Z,New Orleans Saints,-108,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Baltimore Ravens,Las Vegas Raiders,DraftKings,h2h,2024-08-09T01:36:43Z,Carolina Panthers,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Baltimore Ravens,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-220,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Baltimore Ravens,Las Vegas Raiders,BetRivers,h2h,2024-08-09T01:36:43Z,Carolina Panthers,-110,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Baltimore Ravens,Las Vegas Raiders,BetUS,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-110,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Carolina Panthers,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:36:41Z,Carolina Panthers,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Carolina Panthers,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:36:41Z,New Orleans Saints,-225,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Carolina Panthers,Los Angeles Chargers,BetRivers,h2h,2024-08-09T01:36:42Z,Carolina Panthers,-110,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Carolina Panthers,Los Angeles Chargers,BetUS,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-110,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,DraftKings,h2h,2024-08-09T01:36:42Z,Carolina Panthers,183,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,Caesars,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-240,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,BetRivers,h2h,2024-08-09T01:36:42Z,Carolina Panthers,-111,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Jacksonville Jaguars,Cleveland Browns,BetUS,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-110,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Dallas Cowboys,New Orleans Saints,DraftKings,h2h,2024-08-09T01:36:42Z,Carolina Panthers,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Dallas Cowboys,New Orleans Saints,Caesars,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-210,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Dallas Cowboys,New Orleans Saints,BetRivers,h2h,2024-08-09T01:36:43Z,Carolina Panthers,-110,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Dallas Cowboys,New Orleans Saints,BetUS,spreads,2024-08-09T01:36:43Z,New Orleans Saints,100,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Detroit Lions,Tampa Bay Buccaneers,DraftKings,h2h,2024-08-09T01:34:53Z,Carolina Panthers,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Detroit Lions,Tampa Bay Buccaneers,Caesars,spreads,2024-08-09T01:34:53Z,New Orleans Saints,-210,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Detroit Lions,Tampa Bay Buccaneers,BetRivers,h2h,2024-08-09T01:36:43Z,Carolina Panthers,-115,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Green Bay Packers,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-105,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Green Bay Packers,Indianapolis Colts,Caesars,h2h,2024-08-09T01:36:43Z,Carolina Panthers,175,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Green Bay Packers,Indianapolis Colts,BetRivers,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-210,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Green Bay Packers,Indianapolis Colts,BetUS,spreads,2024-08-09T01:36:43Z,Carolina Panthers,-110,4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Minnesota Vikings,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:36:41Z,New Orleans Saints,-110,-4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Minnesota Vikings,San Francisco 49ers,Caesars,spreads,2024-08-09T01:36:42Z,Carolina Panthers,185,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Minnesota Vikings,San Francisco 49ers,BetRivers,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-225,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Minnesota Vikings,San Francisco 49ers,BetUS,h2h,2024-08-09T01:36:42Z,Carolina Panthers,-105,4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,New England Patriots,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-115,-4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,New England Patriots,Seattle Seahawks,Caesars,h2h,2024-08-09T01:36:42Z,Carolina Panthers,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,New England Patriots,Seattle Seahawks,BetRivers,spreads,2024-08-09T01:36:42Z,New Orleans Saints,-220,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,New England Patriots,Seattle Seahawks,BetUS,h2h,2024-08-09T01:36:43Z,Carolina Panthers,-110,5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Washington Commanders,New York Giants,DraftKings,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-110,-5.0
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Washington Commanders,New York Giants,Caesars,h2h,2024-08-09T01:36:43Z,Chicago Bears,-215,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Washington Commanders,New York Giants,BetRivers,spreads,2024-08-09T01:36:43Z,Tennessee Titans,180,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Washington Commanders,New York Giants,BetUS,h2h,2024-08-09T01:34:53Z,Chicago Bears,-105,-4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Washington Commanders,New York Giants,Bovada,spreads,2024-08-09T01:34:53Z,Tennessee Titans,-115,4.5
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Tennessee Titans,New York Jets,DraftKings,h2h,2024-08-09T01:36:43Z,Chicago Bears,-198,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Tennessee Titans,New York Jets,Caesars,spreads,2024-08-09T01:36:43Z,Tennessee Titans,164,
+americanfootball_nfl,NFL,2024-09-15T17:00:00Z,Tennessee Titans,New York Jets,BetRivers,h2h,2024-08-09T01:36:41Z,Chicago Bears,-112,-4.0
+americanfootball_nfl,NFL,2024-09-15T20:05:00Z,Arizona Cardinals,Los Angeles Rams,DraftKings,spreads,2024-08-09T01:36:41Z,Tennessee Titans,-108,4.0
+americanfootball_nfl,NFL,2024-09-15T20:05:00Z,Arizona Cardinals,Los Angeles Rams,Caesars,h2h,2024-08-09T01:36:42Z,Chicago Bears,-215,
+americanfootball_nfl,NFL,2024-09-15T20:05:00Z,Arizona Cardinals,Los Angeles Rams,BetRivers,spreads,2024-08-09T01:36:42Z,Tennessee Titans,175,
+americanfootball_nfl,NFL,2024-09-15T20:05:00Z,Arizona Cardinals,Los Angeles Rams,BetUS,h2h,2024-08-09T01:36:42Z,Chicago Bears,-110,-4.5
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,DraftKings,spreads,2024-08-09T01:36:42Z,Tennessee Titans,-110,4.5
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,BetRivers,h2h,2024-08-09T01:36:42Z,Chicago Bears,-210,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,BetOnline.ag,spreads,2024-08-09T01:36:42Z,Tennessee Titans,175,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,LowVig.ag,h2h,2024-08-09T01:36:43Z,Chicago Bears,-110,-4.5
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,FanDuel,spreads,2024-08-09T01:36:43Z,Tennessee Titans,-110,4.5
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,Caesars,h2h,2024-08-09T01:36:42Z,Chicago Bears,-214,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,BetUS,spreads,2024-08-09T01:36:42Z,Tennessee Titans,165,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Kansas City Chiefs,Cincinnati Bengals,Bovada,h2h,2024-08-09T01:36:43Z,Chicago Bears,-114,-4.0
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Denver Broncos,Pittsburgh Steelers,DraftKings,spreads,2024-08-09T01:36:43Z,Tennessee Titans,-107,4.0
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Denver Broncos,Pittsburgh Steelers,Caesars,h2h,2024-08-09T01:34:53Z,Chicago Bears,-205,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Denver Broncos,Pittsburgh Steelers,BetRivers,spreads,2024-08-09T01:34:53Z,Tennessee Titans,172,
+americanfootball_nfl,NFL,2024-09-15T20:25:00Z,Denver Broncos,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:36:43Z,Chicago Bears,-110,-4.5
+americanfootball_nfl,NFL,2024-09-16T00:20:00Z,Houston Texans,Chicago Bears,DraftKings,spreads,2024-08-09T01:36:43Z,Tennessee Titans,-110,4.5
+americanfootball_nfl,NFL,2024-09-16T00:20:00Z,Houston Texans,Chicago Bears,Caesars,h2h,2024-08-09T01:36:43Z,Chicago Bears,-205,
+americanfootball_nfl,NFL,2024-09-16T00:20:00Z,Houston Texans,Chicago Bears,BetRivers,spreads,2024-08-09T01:36:43Z,Tennessee Titans,175,
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,FanDuel,h2h,2024-08-09T01:36:41Z,Chicago Bears,-105,-4.5
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,BetRivers,spreads,2024-08-09T01:36:41Z,Tennessee Titans,-115,4.5
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,DraftKings,h2h,2024-08-09T01:36:43Z,Chicago Bears,-205,
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,Caesars,spreads,2024-08-09T01:36:43Z,Tennessee Titans,175,
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,BetUS,h2h,2024-08-09T01:36:42Z,Chicago Bears,100,-4.5
+americanfootball_nfl,NFL,2024-09-17T00:15:00Z,Philadelphia Eagles,Atlanta Falcons,Bovada,spreads,2024-08-09T01:36:42Z,Tennessee Titans,-110,4.5
+americanfootball_nfl,NFL,2024-09-20T00:15:00Z,New York Jets,New England Patriots,DraftKings,h2h,2024-08-09T01:36:42Z,Chicago Bears,-210,
+americanfootball_nfl,NFL,2024-09-20T00:15:00Z,New York Jets,New England Patriots,Caesars,spreads,2024-08-09T01:36:42Z,Tennessee Titans,170,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Indianapolis Colts,Chicago Bears,DraftKings,h2h,2024-08-09T01:36:42Z,Chicago Bears,-115,-4.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Indianapolis Colts,Chicago Bears,Caesars,spreads,2024-08-09T01:36:42Z,Tennessee Titans,-105,4.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Cleveland Browns,New York Giants,DraftKings,h2h,2024-08-09T01:36:42Z,Chicago Bears,-210,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Cleveland Browns,New York Giants,Caesars,spreads,2024-08-09T01:36:42Z,Tennessee Titans,175,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Cleveland Browns,New York Giants,BetUS,h2h,2024-08-09T01:36:43Z,Chicago Bears,-110,-4.5
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tampa Bay Buccaneers,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,Tennessee Titans,-110,4.5
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tampa Bay Buccaneers,Denver Broncos,Caesars,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-450,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tampa Bay Buccaneers,Denver Broncos,BetUS,spreads,2024-08-09T01:36:43Z,New England Patriots,350,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tennessee Titans,Green Bay Packers,DraftKings,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-115,-9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tennessee Titans,Green Bay Packers,Caesars,spreads,2024-08-09T01:36:42Z,New England Patriots,-105,9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Tennessee Titans,Green Bay Packers,BetUS,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-455,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Minnesota Vikings,Houston Texans,DraftKings,spreads,2024-08-09T01:36:42Z,New England Patriots,350,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Minnesota Vikings,Houston Texans,Caesars,h2h,2024-08-09T01:34:53Z,Cincinnati Bengals,-110,-9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Minnesota Vikings,Houston Texans,BetUS,spreads,2024-08-09T01:34:53Z,New England Patriots,-110,9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Pittsburgh Steelers,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-430,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Pittsburgh Steelers,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:36:43Z,New England Patriots,328,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,Pittsburgh Steelers,Los Angeles Chargers,BetUS,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-110,-9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,New Orleans Saints,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:36:43Z,New England Patriots,-110,9.0
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,New Orleans Saints,Philadelphia Eagles,Caesars,h2h,2024-08-09T01:36:41Z,Cincinnati Bengals,-420,
+americanfootball_nfl,NFL,2024-09-22T17:00:00Z,New Orleans Saints,Philadelphia Eagles,BetUS,spreads,2024-08-09T01:36:41Z,New England Patriots,310,
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Las Vegas Raiders,Carolina Panthers,DraftKings,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-109,-9.0
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Las Vegas Raiders,Carolina Panthers,Caesars,spreads,2024-08-09T01:36:42Z,New England Patriots,-112,9.0
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Las Vegas Raiders,Carolina Panthers,BetUS,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-481,
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Seattle Seahawks,Miami Dolphins,DraftKings,spreads,2024-08-09T01:36:42Z,New England Patriots,330,
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Seattle Seahawks,Miami Dolphins,Caesars,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-115,-9.5
+americanfootball_nfl,NFL,2024-09-22T20:05:00Z,Seattle Seahawks,Miami Dolphins,BetUS,spreads,2024-08-09T01:36:43Z,New England Patriots,-106,9.5
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Arizona Cardinals,Detroit Lions,DraftKings,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-410,
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Arizona Cardinals,Detroit Lions,Caesars,spreads,2024-08-09T01:36:43Z,New England Patriots,330,
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Dallas Cowboys,Baltimore Ravens,DraftKings,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-113,-9.0
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Dallas Cowboys,Baltimore Ravens,Caesars,spreads,2024-08-09T01:36:43Z,New England Patriots,-107,9.0
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Dallas Cowboys,Baltimore Ravens,BetUS,h2h,2024-08-09T01:34:53Z,Cincinnati Bengals,-410,
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Los Angeles Rams,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:34:53Z,New England Patriots,330,
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Los Angeles Rams,San Francisco 49ers,Caesars,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-108,-9.0
+americanfootball_nfl,NFL,2024-09-22T20:25:00Z,Los Angeles Rams,San Francisco 49ers,BetUS,spreads,2024-08-09T01:36:43Z,New England Patriots,-102,9.0
+americanfootball_nfl,NFL,2024-09-23T00:20:00Z,Atlanta Falcons,Kansas City Chiefs,DraftKings,h2h,2024-08-09T01:36:41Z,Cincinnati Bengals,-430,
+americanfootball_nfl,NFL,2024-09-23T00:20:00Z,Atlanta Falcons,Kansas City Chiefs,Caesars,spreads,2024-08-09T01:36:41Z,New England Patriots,335,
+americanfootball_nfl,NFL,2024-09-23T00:20:00Z,Atlanta Falcons,Kansas City Chiefs,BetUS,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-110,-9.5
+americanfootball_nfl,NFL,2024-09-23T23:30:00Z,Buffalo Bills,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:36:42Z,New England Patriots,-110,9.5
+americanfootball_nfl,NFL,2024-09-23T23:30:00Z,Buffalo Bills,Jacksonville Jaguars,Caesars,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-450,
+americanfootball_nfl,NFL,2024-09-24T00:15:00Z,Cincinnati Bengals,Washington Commanders,DraftKings,spreads,2024-08-09T01:36:42Z,New England Patriots,350,
+americanfootball_nfl,NFL,2024-09-24T00:15:00Z,Cincinnati Bengals,Washington Commanders,Caesars,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-110,-9.5
+americanfootball_nfl,NFL,2024-09-24T00:15:00Z,Cincinnati Bengals,Washington Commanders,BetUS,spreads,2024-08-09T01:36:42Z,New England Patriots,-110,9.5
+americanfootball_nfl,NFL,2024-09-27T00:15:00Z,New York Giants,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:36:42Z,Cincinnati Bengals,-435,
+americanfootball_nfl,NFL,2024-09-27T00:15:00Z,New York Giants,Dallas Cowboys,Caesars,spreads,2024-08-09T01:36:42Z,New England Patriots,325,
+americanfootball_nfl,NFL,2024-09-27T00:15:00Z,New York Giants,Dallas Cowboys,BetUS,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-105,-9.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Atlanta Falcons,New Orleans Saints,DraftKings,spreads,2024-08-09T01:36:43Z,New England Patriots,-115,9.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Atlanta Falcons,New Orleans Saints,Caesars,h2h,2024-08-09T01:36:43Z,Houston Texans,-126,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Atlanta Falcons,New Orleans Saints,BetUS,spreads,2024-08-09T01:36:43Z,Indianapolis Colts,108,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Carolina Panthers,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:34:53Z,Houston Texans,-115,-1.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Carolina Panthers,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:34:53Z,Indianapolis Colts,-105,1.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Carolina Panthers,Cincinnati Bengals,BetUS,h2h,2024-08-09T01:36:43Z,Houston Texans,-130,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Chicago Bears,Los Angeles Rams,DraftKings,spreads,2024-08-09T01:36:43Z,Indianapolis Colts,110,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Chicago Bears,Los Angeles Rams,Caesars,h2h,2024-08-09T01:36:43Z,Houston Texans,-110,-2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,New York Jets,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,Indianapolis Colts,-110,2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,New York Jets,Denver Broncos,Caesars,h2h,2024-08-09T01:36:41Z,Houston Texans,-122,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Green Bay Packers,Minnesota Vikings,DraftKings,spreads,2024-08-09T01:36:41Z,Indianapolis Colts,102,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Green Bay Packers,Minnesota Vikings,Caesars,h2h,2024-08-09T01:36:42Z,Houston Texans,-110,-1.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Green Bay Packers,Minnesota Vikings,BetUS,spreads,2024-08-09T01:36:42Z,Indianapolis Colts,-110,1.5
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Houston Texans,Jacksonville Jaguars,DraftKings,h2h,2024-08-09T01:36:42Z,Houston Texans,-129,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Houston Texans,Jacksonville Jaguars,Caesars,spreads,2024-08-09T01:36:42Z,Indianapolis Colts,106,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Houston Texans,Jacksonville Jaguars,BetUS,h2h,2024-08-09T01:36:42Z,Houston Texans,-112,-2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Indianapolis Colts,Pittsburgh Steelers,DraftKings,h2h,2024-08-09T01:36:42Z,Indianapolis Colts,-109,2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Indianapolis Colts,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:42Z,Houston Texans,-129,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Indianapolis Colts,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:34:53Z,Indianapolis Colts,101,
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Tampa Bay Buccaneers,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:34:53Z,Houston Texans,-110,-2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Tampa Bay Buccaneers,Philadelphia Eagles,Caesars,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,-111,2.0
+americanfootball_nfl,NFL,2024-09-29T17:00:00Z,Tampa Bay Buccaneers,Philadelphia Eagles,BetUS,spreads,2024-08-09T01:36:43Z,Houston Texans,-128,
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,Arizona Cardinals,Washington Commanders,DraftKings,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,108,
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,Arizona Cardinals,Washington Commanders,Caesars,spreads,2024-08-09T01:36:43Z,Houston Texans,-105,-2.0
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,Arizona Cardinals,Washington Commanders,BetUS,h2h,2024-08-09T01:36:42Z,Indianapolis Colts,-105,2.0
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,San Francisco 49ers,New England Patriots,DraftKings,spreads,2024-08-09T01:36:42Z,Houston Texans,-128,
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,San Francisco 49ers,New England Patriots,Caesars,h2h,2024-08-09T01:36:42Z,Indianapolis Colts,108,
+americanfootball_nfl,NFL,2024-09-29T20:05:00Z,San Francisco 49ers,New England Patriots,BetUS,spreads,2024-08-09T01:36:42Z,Houston Texans,-110,-2.0
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Las Vegas Raiders,Cleveland Browns,DraftKings,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,-110,2.0
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Las Vegas Raiders,Cleveland Browns,Caesars,spreads,2024-08-09T01:36:43Z,Houston Texans,-130,
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Las Vegas Raiders,Cleveland Browns,BetUS,h2h,2024-08-09T01:36:42Z,Indianapolis Colts,110,
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Los Angeles Chargers,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:36:42Z,Houston Texans,-115,-1.5
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Los Angeles Chargers,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:36:41Z,Indianapolis Colts,-105,1.5
+americanfootball_nfl,NFL,2024-09-29T20:25:00Z,Los Angeles Chargers,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:36:41Z,Houston Texans,-135,
+americanfootball_nfl,NFL,2024-09-30T00:15:00Z,Baltimore Ravens,Buffalo Bills,DraftKings,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,110,
+americanfootball_nfl,NFL,2024-09-30T00:15:00Z,Baltimore Ravens,Buffalo Bills,Caesars,spreads,2024-08-09T01:36:43Z,Houston Texans,-115,-1.5
+americanfootball_nfl,NFL,2024-09-30T23:30:00Z,Miami Dolphins,Tennessee Titans,DraftKings,h2h,2024-08-09T01:36:42Z,Indianapolis Colts,-105,1.5
+americanfootball_nfl,NFL,2024-09-30T23:30:00Z,Miami Dolphins,Tennessee Titans,Caesars,spreads,2024-08-09T01:36:42Z,Houston Texans,-135,
+americanfootball_nfl,NFL,2024-09-30T23:30:00Z,Miami Dolphins,Tennessee Titans,BetUS,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,115,
+americanfootball_nfl,NFL,2024-10-01T00:15:00Z,Detroit Lions,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:36:43Z,Houston Texans,-120,-2.0
+americanfootball_nfl,NFL,2024-10-01T00:15:00Z,Detroit Lions,Seattle Seahawks,Caesars,h2h,2024-08-09T01:34:53Z,Indianapolis Colts,100,2.0
+americanfootball_nfl,NFL,2024-10-04T00:15:00Z,Atlanta Falcons,Tampa Bay Buccaneers,DraftKings,spreads,2024-08-09T01:34:53Z,Jacksonville Jaguars,146,
+americanfootball_nfl,NFL,2024-10-04T00:15:00Z,Atlanta Falcons,Tampa Bay Buccaneers,Caesars,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-174,
+americanfootball_nfl,NFL,2024-10-04T00:15:00Z,Atlanta Falcons,Tampa Bay Buccaneers,BetUS,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-118,3.5
+americanfootball_nfl,NFL,2024-10-06T13:30:00Z,Minnesota Vikings,New York Jets,DraftKings,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-104,-3.5
+americanfootball_nfl,NFL,2024-10-06T13:30:00Z,Minnesota Vikings,New York Jets,FanDuel,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T13:30:00Z,Minnesota Vikings,New York Jets,Caesars,h2h,2024-08-09T01:36:42Z,Miami Dolphins,-178,
+americanfootball_nfl,NFL,2024-10-06T13:30:00Z,Minnesota Vikings,New York Jets,Bovada,spreads,2024-08-09T01:36:42Z,Jacksonville Jaguars,-115,3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Cincinnati Bengals,Baltimore Ravens,DraftKings,h2h,2024-08-09T01:34:53Z,Miami Dolphins,-105,-3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Cincinnati Bengals,Baltimore Ravens,Caesars,spreads,2024-08-09T01:34:53Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Cincinnati Bengals,Baltimore Ravens,BetUS,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-180,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Houston Texans,Buffalo Bills,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Houston Texans,Buffalo Bills,Caesars,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-110,-3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Chicago Bears,Carolina Panthers,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Chicago Bears,Carolina Panthers,Caesars,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-182,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Washington Commanders,Cleveland Browns,DraftKings,h2h,2024-08-09T01:34:53Z,Jacksonville Jaguars,-110,3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Washington Commanders,Cleveland Browns,Caesars,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-110,-3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Washington Commanders,Cleveland Browns,BetUS,h2h,2024-08-09T01:36:43Z,Jacksonville Jaguars,155,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Jacksonville Jaguars,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-180,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Jacksonville Jaguars,Indianapolis Colts,Caesars,h2h,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,Jacksonville Jaguars,Indianapolis Colts,BetUS,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-110,-3.5
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,New England Patriots,Miami Dolphins,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,143,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,New England Patriots,Miami Dolphins,Caesars,h2h,2024-08-09T01:34:53Z,Miami Dolphins,-184,
+americanfootball_nfl,NFL,2024-10-06T17:00:00Z,New England Patriots,Miami Dolphins,BetUS,spreads,2024-08-09T01:34:53Z,Jacksonville Jaguars,-116,3.5
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,San Francisco 49ers,Arizona Cardinals,DraftKings,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-105,-3.5
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,San Francisco 49ers,Arizona Cardinals,Caesars,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,San Francisco 49ers,Arizona Cardinals,BetUS,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-170,
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,Denver Broncos,Las Vegas Raiders,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-115,3.5
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,Denver Broncos,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-105,-3.5
+americanfootball_nfl,NFL,2024-10-06T20:05:00Z,Denver Broncos,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:34:53Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Los Angeles Rams,Green Bay Packers,DraftKings,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-170,
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Los Angeles Rams,Green Bay Packers,Caesars,h2h,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,3.5
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Los Angeles Rams,Green Bay Packers,BetUS,spreads,2024-08-09T01:36:43Z,Miami Dolphins,100,-3.5
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Seattle Seahawks,New York Giants,DraftKings,h2h,2024-08-09T01:36:43Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Seattle Seahawks,New York Giants,Caesars,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-185,
+americanfootball_nfl,NFL,2024-10-06T20:25:00Z,Seattle Seahawks,New York Giants,BetUS,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,3.5
+americanfootball_nfl,NFL,2024-10-07T00:20:00Z,Pittsburgh Steelers,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:34:53Z,Miami Dolphins,-110,-3.5
+americanfootball_nfl,NFL,2024-10-07T00:20:00Z,Pittsburgh Steelers,Dallas Cowboys,Caesars,spreads,2024-08-09T01:34:53Z,Jacksonville Jaguars,150,
+americanfootball_nfl,NFL,2024-10-07T00:20:00Z,Pittsburgh Steelers,Dallas Cowboys,BetUS,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-175,
+americanfootball_nfl,NFL,2024-10-08T00:15:00Z,Kansas City Chiefs,New Orleans Saints,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-120,3.5
+americanfootball_nfl,NFL,2024-10-08T00:15:00Z,Kansas City Chiefs,New Orleans Saints,Caesars,h2h,2024-08-09T01:36:43Z,Miami Dolphins,100,-3.5
+americanfootball_nfl,NFL,2024-10-08T00:15:00Z,Kansas City Chiefs,New Orleans Saints,BetUS,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-118,
+americanfootball_nfl,NFL,2024-10-11T00:15:00Z,Seattle Seahawks,San Francisco 49ers,DraftKings,h2h,2024-08-09T01:34:53Z,New York Giants,100,
+americanfootball_nfl,NFL,2024-10-11T00:15:00Z,Seattle Seahawks,San Francisco 49ers,Caesars,spreads,2024-08-09T01:34:53Z,Minnesota Vikings,-110,-1.5
+americanfootball_nfl,NFL,2024-10-11T00:15:00Z,Seattle Seahawks,San Francisco 49ers,BetUS,h2h,2024-08-09T01:36:43Z,New York Giants,-110,1.5
+americanfootball_nfl,NFL,2024-10-13T13:30:00Z,Chicago Bears,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-118,
+americanfootball_nfl,NFL,2024-10-13T13:30:00Z,Chicago Bears,Jacksonville Jaguars,FanDuel,h2h,2024-08-09T01:36:43Z,New York Giants,-102,
+americanfootball_nfl,NFL,2024-10-13T13:30:00Z,Chicago Bears,Jacksonville Jaguars,Caesars,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-110,-1.0
+americanfootball_nfl,NFL,2024-10-13T13:30:00Z,Chicago Bears,Jacksonville Jaguars,Bovada,spreads,2024-08-09T01:36:43Z,New York Giants,-110,1.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Green Bay Packers,Arizona Cardinals,DraftKings,h2h,2024-08-09T01:34:53Z,Minnesota Vikings,-115,
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Green Bay Packers,Arizona Cardinals,Caesars,spreads,2024-08-09T01:34:53Z,New York Giants,-105,
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Green Bay Packers,Arizona Cardinals,BetUS,h2h,2024-08-09T01:36:43Z,Minnesota Vikings,-115,-0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Baltimore Ravens,Washington Commanders,DraftKings,spreads,2024-08-09T01:36:43Z,New York Giants,-105,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Baltimore Ravens,Washington Commanders,Caesars,h2h,2024-08-09T01:36:43Z,Minnesota Vikings,-110,
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Baltimore Ravens,Washington Commanders,BetUS,spreads,2024-08-09T01:36:43Z,New York Giants,-110,
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Philadelphia Eagles,Cleveland Browns,DraftKings,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-115,1.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Philadelphia Eagles,Cleveland Browns,Caesars,h2h,2024-08-09T01:34:53Z,New York Giants,-106,-1.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Philadelphia Eagles,Cleveland Browns,BetUS,spreads,2024-08-09T01:34:53Z,Minnesota Vikings,-110,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New England Patriots,Houston Texans,DraftKings,h2h,2024-08-09T01:36:43Z,New York Giants,-110,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New England Patriots,Houston Texans,Caesars,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-111,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New England Patriots,Houston Texans,BetUS,h2h,2024-08-09T01:36:43Z,New York Giants,-111,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Tennessee Titans,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-110,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Tennessee Titans,Indianapolis Colts,Caesars,spreads,2024-08-09T01:36:43Z,New York Giants,-110,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,Tennessee Titans,Indianapolis Colts,BetUS,h2h,2024-08-09T01:34:53Z,Minnesota Vikings,-105,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New Orleans Saints,Tampa Bay Buccaneers,DraftKings,spreads,2024-08-09T01:34:53Z,New York Giants,-105,0.0
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New Orleans Saints,Tampa Bay Buccaneers,Caesars,h2h,2024-08-09T01:36:43Z,Minnesota Vikings,-115,
+americanfootball_nfl,NFL,2024-10-13T17:00:00Z,New Orleans Saints,Tampa Bay Buccaneers,BetUS,spreads,2024-08-09T01:36:43Z,New York Giants,-105,
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Denver Broncos,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:36:43Z,Minnesota Vikings,-110,-1.0
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Denver Broncos,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:36:43Z,New York Giants,-110,1.0
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Denver Broncos,Los Angeles Chargers,BetUS,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-120,
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Las Vegas Raiders,Pittsburgh Steelers,DraftKings,h2h,2024-08-09T01:36:42Z,New York Giants,100,
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Las Vegas Raiders,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:42Z,Minnesota Vikings,-105,-1.5
+americanfootball_nfl,NFL,2024-10-13T20:05:00Z,Las Vegas Raiders,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:34:53Z,New York Giants,-115,1.5
+americanfootball_nfl,NFL,2024-10-13T20:25:00Z,Carolina Panthers,Atlanta Falcons,DraftKings,spreads,2024-08-09T01:34:53Z,Denver Broncos,194,
+americanfootball_nfl,NFL,2024-10-13T20:25:00Z,Carolina Panthers,Atlanta Falcons,Caesars,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-235,
+americanfootball_nfl,NFL,2024-10-13T20:25:00Z,Carolina Panthers,Atlanta Falcons,BetUS,spreads,2024-08-09T01:36:43Z,Denver Broncos,-102,4.5
+americanfootball_nfl,NFL,2024-10-13T20:25:00Z,Dallas Cowboys,Detroit Lions,DraftKings,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-120,-4.5
+americanfootball_nfl,NFL,2024-10-13T20:25:00Z,Dallas Cowboys,Detroit Lions,Caesars,spreads,2024-08-09T01:36:43Z,Denver Broncos,196,
+americanfootball_nfl,NFL,2024-10-14T00:20:00Z,New York Giants,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:34:53Z,Seattle Seahawks,-240,
+americanfootball_nfl,NFL,2024-10-14T00:20:00Z,New York Giants,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:34:53Z,Denver Broncos,-110,5.5
+americanfootball_nfl,NFL,2024-10-14T00:20:00Z,New York Giants,Cincinnati Bengals,BetUS,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-110,-5.5
+americanfootball_nfl,NFL,2024-10-15T00:15:00Z,New York Jets,Buffalo Bills,DraftKings,spreads,2024-08-09T01:36:43Z,Denver Broncos,170,
+americanfootball_nfl,NFL,2024-10-15T00:15:00Z,New York Jets,Buffalo Bills,Caesars,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-205,
+americanfootball_nfl,NFL,2024-10-18T00:15:00Z,New Orleans Saints,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,Denver Broncos,-105,4.5
+americanfootball_nfl,NFL,2024-10-18T00:15:00Z,New Orleans Saints,Denver Broncos,Caesars,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-115,-4.5
+americanfootball_nfl,NFL,2024-10-18T00:15:00Z,New Orleans Saints,Denver Broncos,BetUS,h2h,2024-08-09T01:34:53Z,Denver Broncos,180,
+americanfootball_nfl,NFL,2024-10-20T13:30:00Z,Jacksonville Jaguars,New England Patriots,DraftKings,spreads,2024-08-09T01:34:53Z,Seattle Seahawks,-225,
+americanfootball_nfl,NFL,2024-10-20T13:30:00Z,Jacksonville Jaguars,New England Patriots,FanDuel,h2h,2024-08-09T01:36:43Z,Denver Broncos,-110,5.0
+americanfootball_nfl,NFL,2024-10-20T13:30:00Z,Jacksonville Jaguars,New England Patriots,Caesars,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-110,-5.0
+americanfootball_nfl,NFL,2024-10-20T13:30:00Z,Jacksonville Jaguars,New England Patriots,BetUS,spreads,2024-08-09T01:36:42Z,Denver Broncos,186,
+americanfootball_nfl,NFL,2024-10-20T13:30:00Z,Jacksonville Jaguars,New England Patriots,Bovada,spreads,2024-08-09T01:36:42Z,Seattle Seahawks,-244,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Atlanta Falcons,Seattle Seahawks,DraftKings,h2h,2024-08-09T01:36:43Z,Denver Broncos,-109,5.0
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Atlanta Falcons,Seattle Seahawks,Caesars,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-112,-5.0
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Atlanta Falcons,Seattle Seahawks,BetUS,h2h,2024-08-09T01:36:43Z,Denver Broncos,205,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Buffalo Bills,Tennessee Titans,DraftKings,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-245,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Buffalo Bills,Tennessee Titans,Caesars,spreads,2024-08-09T01:36:43Z,Denver Broncos,-105,5.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Cleveland Browns,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:36:42Z,Seattle Seahawks,-105,-5.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Cleveland Browns,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:36:42Z,Denver Broncos,205,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Cleveland Browns,Cincinnati Bengals,BetUS,h2h,2024-08-09T01:34:53Z,Seattle Seahawks,-245,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Minnesota Vikings,Detroit Lions,DraftKings,spreads,2024-08-09T01:34:53Z,Denver Broncos,-110,5.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Minnesota Vikings,Detroit Lions,Caesars,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-110,-5.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Green Bay Packers,Houston Texans,DraftKings,spreads,2024-08-09T01:36:43Z,Denver Broncos,170,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Green Bay Packers,Houston Texans,Caesars,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-210,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Green Bay Packers,Houston Texans,BetUS,spreads,2024-08-09T01:36:43Z,Denver Broncos,100,4.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Indianapolis Colts,Miami Dolphins,DraftKings,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-120,-4.5
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Indianapolis Colts,Miami Dolphins,Caesars,h2h,2024-08-09T01:34:53Z,Denver Broncos,195,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,Indianapolis Colts,Miami Dolphins,BetUS,spreads,2024-08-09T01:34:53Z,Seattle Seahawks,-235,
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,New York Giants,Philadelphia Eagles,DraftKings,h2h,2024-08-09T01:36:43Z,Denver Broncos,-110,5.0
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,New York Giants,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-110,-5.0
+americanfootball_nfl,NFL,2024-10-20T17:00:00Z,New York Giants,Philadelphia Eagles,BetUS,h2h,2024-08-09T01:36:43Z,Denver Broncos,200,
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Washington Commanders,Carolina Panthers,DraftKings,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-240,
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Washington Commanders,Carolina Panthers,Caesars,h2h,2024-08-09T01:36:43Z,Denver Broncos,-115,6.0
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Washington Commanders,Carolina Panthers,BetUS,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-105,-6.0
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Los Angeles Rams,Las Vegas Raiders,DraftKings,h2h,2024-08-09T01:36:43Z,Las Vegas Raiders,138,
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Los Angeles Rams,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-164,
+americanfootball_nfl,NFL,2024-10-20T20:05:00Z,Los Angeles Rams,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:34:53Z,Las Vegas Raiders,-105,3.0
+americanfootball_nfl,NFL,2024-10-20T20:25:00Z,San Francisco 49ers,Kansas City Chiefs,FanDuel,spreads,2024-08-09T01:34:53Z,Los Angeles Chargers,-115,-3.0
+americanfootball_nfl,NFL,2024-10-20T20:25:00Z,San Francisco 49ers,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:36:43Z,Las Vegas Raiders,130,
+americanfootball_nfl,NFL,2024-10-20T20:25:00Z,San Francisco 49ers,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-155,
+americanfootball_nfl,NFL,2024-10-20T20:25:00Z,San Francisco 49ers,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-20T20:25:00Z,San Francisco 49ers,Kansas City Chiefs,Bovada,h2h,2024-08-09T01:36:42Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-21T00:20:00Z,Pittsburgh Steelers,New York Jets,DraftKings,spreads,2024-08-09T01:36:42Z,Las Vegas Raiders,140,
+americanfootball_nfl,NFL,2024-10-21T00:20:00Z,Pittsburgh Steelers,New York Jets,Caesars,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-165,
+americanfootball_nfl,NFL,2024-10-22T00:15:00Z,Tampa Bay Buccaneers,Baltimore Ravens,DraftKings,spreads,2024-08-09T01:34:53Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-22T00:15:00Z,Tampa Bay Buccaneers,Baltimore Ravens,Caesars,h2h,2024-08-09T01:36:43Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-22T00:15:00Z,Tampa Bay Buccaneers,Baltimore Ravens,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,137,
+americanfootball_nfl,NFL,2024-10-22T01:00:00Z,Arizona Cardinals,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-167,
+americanfootball_nfl,NFL,2024-10-22T01:00:00Z,Arizona Cardinals,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:34:53Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-22T01:00:00Z,Arizona Cardinals,Los Angeles Chargers,BetUS,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-25T00:15:00Z,Los Angeles Rams,Minnesota Vikings,DraftKings,h2h,2024-08-09T01:34:53Z,Las Vegas Raiders,130,
+americanfootball_nfl,NFL,2024-10-25T00:15:00Z,Los Angeles Rams,Minnesota Vikings,Caesars,spreads,2024-08-09T01:34:53Z,Los Angeles Chargers,-166,
+americanfootball_nfl,NFL,2024-10-25T00:15:00Z,Los Angeles Rams,Minnesota Vikings,BetUS,h2h,2024-08-09T01:36:43Z,Las Vegas Raiders,-108,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Miami Dolphins,Arizona Cardinals,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-113,-3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Miami Dolphins,Arizona Cardinals,Caesars,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,135,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Miami Dolphins,Arizona Cardinals,BetUS,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-155,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Tampa Bay Buccaneers,Atlanta Falcons,DraftKings,spreads,2024-08-09T01:34:53Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Tampa Bay Buccaneers,Atlanta Falcons,Caesars,h2h,2024-08-09T01:36:43Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Tampa Bay Buccaneers,Atlanta Falcons,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,140,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Cleveland Browns,Baltimore Ravens,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-160,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Cleveland Browns,Baltimore Ravens,Caesars,h2h,2024-08-09T01:34:53Z,Las Vegas Raiders,-113,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Cleveland Browns,Baltimore Ravens,BetUS,spreads,2024-08-09T01:34:53Z,Los Angeles Chargers,-107,-3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Washington Commanders,Chicago Bears,DraftKings,h2h,2024-08-09T01:36:43Z,Las Vegas Raiders,140,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Washington Commanders,Chicago Bears,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-160,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Detroit Lions,Tennessee Titans,DraftKings,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-108,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Detroit Lions,Tennessee Titans,Caesars,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-102,-3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Jacksonville Jaguars,Green Bay Packers,DraftKings,spreads,2024-08-09T01:34:53Z,Las Vegas Raiders,135,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Jacksonville Jaguars,Green Bay Packers,Caesars,h2h,2024-08-09T01:36:43Z,Los Angeles Chargers,-160,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Jacksonville Jaguars,Green Bay Packers,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Houston Texans,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Houston Texans,Indianapolis Colts,Caesars,h2h,2024-08-09T01:34:53Z,Las Vegas Raiders,135,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,Houston Texans,Indianapolis Colts,BetUS,spreads,2024-08-09T01:34:53Z,Los Angeles Chargers,-160,
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,New England Patriots,New York Jets,DraftKings,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-110,3.0
+americanfootball_nfl,NFL,2024-10-27T17:00:00Z,New England Patriots,New York Jets,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-110,-3.0
+americanfootball_nfl,NFL,2024-10-27T20:05:00Z,Seattle Seahawks,Buffalo Bills,DraftKings,h2h,2024-08-09T01:34:53Z,Cleveland Browns,-118,
+americanfootball_nfl,NFL,2024-10-27T20:05:00Z,Seattle Seahawks,Buffalo Bills,Caesars,spreads,2024-08-09T01:34:53Z,Dallas Cowboys,100,
+americanfootball_nfl,NFL,2024-10-27T20:05:00Z,Los Angeles Chargers,New Orleans Saints,DraftKings,h2h,2024-08-09T01:36:43Z,Cleveland Browns,-110,-1.5
+americanfootball_nfl,NFL,2024-10-27T20:05:00Z,Los Angeles Chargers,New Orleans Saints,Caesars,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-110,1.5
+americanfootball_nfl,NFL,2024-10-27T20:05:00Z,Los Angeles Chargers,New Orleans Saints,BetUS,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-125,
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Denver Broncos,Carolina Panthers,DraftKings,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,105,
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Denver Broncos,Carolina Panthers,Caesars,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-115,-1.5
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Denver Broncos,Carolina Panthers,BetUS,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,-105,1.5
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Cincinnati Bengals,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-126,
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Cincinnati Bengals,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,106,
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Cincinnati Bengals,Philadelphia Eagles,BetUS,h2h,2024-08-09T01:34:53Z,Cleveland Browns,-115,-2.0
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:34:53Z,Dallas Cowboys,-105,2.0
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:36:43Z,Cleveland Browns,-126,
+americanfootball_nfl,NFL,2024-10-27T20:25:00Z,Las Vegas Raiders,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,106,
+americanfootball_nfl,NFL,2024-10-28T00:20:00Z,San Francisco 49ers,Dallas Cowboys,FanDuel,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-110,-2.0
+americanfootball_nfl,NFL,2024-10-28T00:20:00Z,San Francisco 49ers,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,100,2.0
+americanfootball_nfl,NFL,2024-10-28T00:20:00Z,San Francisco 49ers,Dallas Cowboys,Caesars,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-130,
+americanfootball_nfl,NFL,2024-10-28T00:20:00Z,San Francisco 49ers,Dallas Cowboys,BetUS,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,110,
+americanfootball_nfl,NFL,2024-10-29T00:20:00Z,Pittsburgh Steelers,New York Giants,DraftKings,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-110,-2.0
+americanfootball_nfl,NFL,2024-10-29T00:20:00Z,Pittsburgh Steelers,New York Giants,Caesars,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,-110,2.0
+americanfootball_nfl,NFL,2024-10-29T00:20:00Z,Pittsburgh Steelers,New York Giants,BetUS,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-117,
+americanfootball_nfl,NFL,2024-11-01T00:15:00Z,New York Jets,Houston Texans,DraftKings,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-104,
+americanfootball_nfl,NFL,2024-11-01T00:15:00Z,New York Jets,Houston Texans,Caesars,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-112,-1.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Atlanta Falcons,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,-109,1.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Atlanta Falcons,Dallas Cowboys,Caesars,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-120,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Atlanta Falcons,Dallas Cowboys,BetUS,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,100,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Baltimore Ravens,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-110,-1.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Baltimore Ravens,Denver Broncos,Caesars,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-110,1.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Baltimore Ravens,Denver Broncos,BetUS,h2h,2024-08-09T01:34:53Z,Cleveland Browns,-128,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Buffalo Bills,Miami Dolphins,DraftKings,spreads,2024-08-09T01:34:53Z,Dallas Cowboys,101,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Buffalo Bills,Miami Dolphins,Caesars,h2h,2024-08-09T01:36:43Z,Cleveland Browns,-112,-1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Carolina Panthers,New Orleans Saints,DraftKings,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-109,1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Carolina Panthers,New Orleans Saints,Caesars,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-125,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Carolina Panthers,New Orleans Saints,BetUS,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,105,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cincinnati Bengals,Las Vegas Raiders,DraftKings,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-110,-1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cincinnati Bengals,Las Vegas Raiders,Caesars,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,-110,1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cincinnati Bengals,Las Vegas Raiders,BetUS,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-120,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cleveland Browns,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,100,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cleveland Browns,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-110,-1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Cleveland Browns,Los Angeles Chargers,BetUS,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,-110,1.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Minnesota Vikings,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-188,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Minnesota Vikings,Indianapolis Colts,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,158,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Minnesota Vikings,Indianapolis Colts,BetUS,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-110,-3.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Tennessee Titans,New England Patriots,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,-110,3.5
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Tennessee Titans,New England Patriots,Caesars,h2h,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-190,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,Tennessee Titans,New England Patriots,BetUS,spreads,2024-08-09T01:36:43Z,Washington Commanders,155,
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,New York Giants,Washington Commanders,DraftKings,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-110,-4.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,New York Giants,Washington Commanders,Caesars,h2h,2024-08-09T01:34:53Z,Washington Commanders,-110,4.0
+americanfootball_nfl,NFL,2024-11-03T18:00:00Z,New York Giants,Washington Commanders,BetUS,spreads,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-195,
+americanfootball_nfl,NFL,2024-11-03T21:05:00Z,Arizona Cardinals,Chicago Bears,DraftKings,h2h,2024-08-09T01:36:43Z,Washington Commanders,162,
+americanfootball_nfl,NFL,2024-11-03T21:05:00Z,Arizona Cardinals,Chicago Bears,Caesars,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-110,-4.0
+americanfootball_nfl,NFL,2024-11-03T21:25:00Z,Green Bay Packers,Detroit Lions,DraftKings,spreads,2024-08-09T01:36:43Z,Washington Commanders,-110,4.0
+americanfootball_nfl,NFL,2024-11-03T21:25:00Z,Green Bay Packers,Detroit Lions,Caesars,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-185,
+americanfootball_nfl,NFL,2024-11-03T21:25:00Z,Seattle Seahawks,Los Angeles Rams,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,154,
+americanfootball_nfl,NFL,2024-11-03T21:25:00Z,Seattle Seahawks,Los Angeles Rams,Caesars,h2h,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-110,-3.5
+americanfootball_nfl,NFL,2024-11-03T21:25:00Z,Seattle Seahawks,Los Angeles Rams,BetUS,spreads,2024-08-09T01:36:43Z,Washington Commanders,-110,3.5
+americanfootball_nfl,NFL,2024-11-04T01:15:00Z,Philadelphia Eagles,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-200,
+americanfootball_nfl,NFL,2024-11-04T01:15:00Z,Philadelphia Eagles,Jacksonville Jaguars,Caesars,h2h,2024-08-09T01:34:53Z,Washington Commanders,170,
+americanfootball_nfl,NFL,2024-11-04T01:15:00Z,Philadelphia Eagles,Jacksonville Jaguars,BetUS,spreads,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-110,-4.0
+americanfootball_nfl,NFL,2024-11-05T01:15:00Z,Kansas City Chiefs,Tampa Bay Buccaneers,DraftKings,spreads,2024-08-09T01:36:43Z,Washington Commanders,-110,4.0
+americanfootball_nfl,NFL,2024-11-05T01:15:00Z,Kansas City Chiefs,Tampa Bay Buccaneers,Caesars,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-196,
+americanfootball_nfl,NFL,2024-11-05T01:15:00Z,Kansas City Chiefs,Tampa Bay Buccaneers,BetUS,spreads,2024-08-09T01:34:53Z,Washington Commanders,151,
+americanfootball_nfl,NFL,2024-11-08T01:15:00Z,Baltimore Ravens,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-109,-4.0
+americanfootball_nfl,NFL,2024-11-08T01:15:00Z,Baltimore Ravens,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,-112,4.0
+americanfootball_nfl,NFL,2024-11-08T01:15:00Z,Baltimore Ravens,Cincinnati Bengals,BetUS,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-205,
+americanfootball_nfl,NFL,2024-11-10T14:30:00Z,Carolina Panthers,New York Giants,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,175,
+americanfootball_nfl,NFL,2024-11-10T14:30:00Z,Carolina Panthers,New York Giants,FanDuel,h2h,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-110,-4.0
+americanfootball_nfl,NFL,2024-11-10T14:30:00Z,Carolina Panthers,New York Giants,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,-110,4.0
+americanfootball_nfl,NFL,2024-11-10T14:30:00Z,Carolina Panthers,New York Giants,Bovada,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-205,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,New Orleans Saints,Atlanta Falcons,DraftKings,h2h,2024-08-09T01:34:53Z,Washington Commanders,175,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,New Orleans Saints,Atlanta Falcons,Caesars,spreads,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-105,-4.0
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Indianapolis Colts,Buffalo Bills,DraftKings,h2h,2024-08-09T01:36:43Z,Washington Commanders,-105,4.0
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Indianapolis Colts,Buffalo Bills,Caesars,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-190,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Chicago Bears,New England Patriots,DraftKings,spreads,2024-08-09T01:36:43Z,Washington Commanders,155,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Chicago Bears,New England Patriots,Caesars,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-110,-3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Kansas City Chiefs,Denver Broncos,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,-110,3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Kansas City Chiefs,Denver Broncos,Caesars,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-195,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Jacksonville Jaguars,Minnesota Vikings,DraftKings,spreads,2024-08-09T01:36:43Z,Washington Commanders,165,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Jacksonville Jaguars,Minnesota Vikings,Caesars,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,-110,-3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Jacksonville Jaguars,Minnesota Vikings,BetUS,spreads,2024-08-09T01:34:53Z,Washington Commanders,-110,3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Washington Commanders,Pittsburgh Steelers,DraftKings,h2h,2024-08-09T01:36:43Z,Detroit Lions,-180,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Washington Commanders,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,150,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Washington Commanders,Pittsburgh Steelers,BetUS,spreads,2024-08-09T01:36:43Z,Detroit Lions,-105,-3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Tampa Bay Buccaneers,San Francisco 49ers,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,-115,3.5
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Tampa Bay Buccaneers,San Francisco 49ers,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-190,
+americanfootball_nfl,NFL,2024-11-10T18:00:00Z,Tampa Bay Buccaneers,San Francisco 49ers,BetUS,h2h,2024-08-09T01:36:43Z,Los Angeles Rams,158,
+americanfootball_nfl,NFL,2024-11-10T21:05:00Z,Los Angeles Chargers,Tennessee Titans,DraftKings,spreads,2024-08-09T01:36:43Z,Detroit Lions,-110,-3.5
+americanfootball_nfl,NFL,2024-11-10T21:05:00Z,Los Angeles Chargers,Tennessee Titans,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-110,3.5
+americanfootball_nfl,NFL,2024-11-10T21:05:00Z,Los Angeles Chargers,Tennessee Titans,BetUS,h2h,2024-08-09T01:34:53Z,Detroit Lions,-198,
+americanfootball_nfl,NFL,2024-11-10T21:25:00Z,Arizona Cardinals,New York Jets,DraftKings,spreads,2024-08-09T01:34:53Z,Los Angeles Rams,164,
+americanfootball_nfl,NFL,2024-11-10T21:25:00Z,Arizona Cardinals,New York Jets,Caesars,h2h,2024-08-09T01:36:43Z,Detroit Lions,-108,-3.5
+americanfootball_nfl,NFL,2024-11-10T21:25:00Z,Dallas Cowboys,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-112,3.5
+americanfootball_nfl,NFL,2024-11-10T21:25:00Z,Dallas Cowboys,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Detroit Lions,-190,
+americanfootball_nfl,NFL,2024-11-11T01:20:00Z,Houston Texans,Detroit Lions,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,155,
+americanfootball_nfl,NFL,2024-11-11T01:20:00Z,Houston Texans,Detroit Lions,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-110,-3.5
+americanfootball_nfl,NFL,2024-11-12T01:20:00Z,Los Angeles Rams,Miami Dolphins,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-110,3.5
+americanfootball_nfl,NFL,2024-11-12T01:20:00Z,Los Angeles Rams,Miami Dolphins,Caesars,spreads,2024-08-09T01:36:43Z,Detroit Lions,-190,
+americanfootball_nfl,NFL,2024-11-15T01:15:00Z,Philadelphia Eagles,Washington Commanders,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,163,
+americanfootball_nfl,NFL,2024-11-15T01:15:00Z,Philadelphia Eagles,Washington Commanders,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-110,-3.5
+americanfootball_nfl,NFL,2024-11-15T01:15:00Z,Philadelphia Eagles,Washington Commanders,BetUS,h2h,2024-08-09T01:36:43Z,Los Angeles Rams,-110,3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Pittsburgh Steelers,Baltimore Ravens,DraftKings,spreads,2024-08-09T01:36:43Z,Detroit Lions,-196,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Pittsburgh Steelers,Baltimore Ravens,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,152,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Pittsburgh Steelers,Baltimore Ravens,BetUS,h2h,2024-08-09T01:34:53Z,Detroit Lions,-113,-3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Chicago Bears,Green Bay Packers,DraftKings,spreads,2024-08-09T01:34:53Z,Los Angeles Rams,-108,3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Chicago Bears,Green Bay Packers,Caesars,h2h,2024-08-09T01:36:43Z,Detroit Lions,-190,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New Orleans Saints,Cleveland Browns,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,165,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New Orleans Saints,Cleveland Browns,Caesars,h2h,2024-08-09T01:34:53Z,Detroit Lions,-109,-3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New Orleans Saints,Cleveland Browns,BetUS,spreads,2024-08-09T01:34:53Z,Los Angeles Rams,-111,3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Detroit Lions,Jacksonville Jaguars,DraftKings,h2h,2024-08-09T01:36:43Z,Detroit Lions,-190,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Detroit Lions,Jacksonville Jaguars,Caesars,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,165,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Miami Dolphins,Las Vegas Raiders,DraftKings,spreads,2024-08-09T01:36:43Z,Detroit Lions,-104,-3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Miami Dolphins,Las Vegas Raiders,Caesars,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,-106,3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New England Patriots,Los Angeles Rams,DraftKings,spreads,2024-08-09T01:34:53Z,Detroit Lions,-185,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New England Patriots,Los Angeles Rams,Caesars,h2h,2024-08-09T01:36:43Z,Los Angeles Rams,150,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,New England Patriots,Los Angeles Rams,BetUS,spreads,2024-08-09T01:36:43Z,Detroit Lions,-184,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Tennessee Titans,Minnesota Vikings,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,163,
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Tennessee Titans,Minnesota Vikings,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-105,-3.5
+americanfootball_nfl,NFL,2024-11-17T18:00:00Z,Tennessee Titans,Minnesota Vikings,BetUS,h2h,2024-08-09T01:36:43Z,Los Angeles Rams,-115,3.5
+americanfootball_nfl,NFL,2024-11-17T21:05:00Z,Denver Broncos,Atlanta Falcons,DraftKings,spreads,2024-08-09T01:36:43Z,New York Jets,180,
+americanfootball_nfl,NFL,2024-11-17T21:05:00Z,Denver Broncos,Atlanta Falcons,Caesars,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-258,
+americanfootball_nfl,NFL,2024-11-17T21:05:00Z,San Francisco 49ers,Seattle Seahawks,DraftKings,h2h,2024-08-09T01:34:53Z,New York Jets,-112,5.0
+americanfootball_nfl,NFL,2024-11-17T21:05:00Z,San Francisco 49ers,Seattle Seahawks,Caesars,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-108,-5.0
+americanfootball_nfl,NFL,2024-11-17T21:05:00Z,San Francisco 49ers,Seattle Seahawks,BetUS,h2h,2024-08-09T01:36:43Z,New York Jets,190,
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Buffalo Bills,Kansas City Chiefs,FanDuel,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-230,
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Buffalo Bills,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:36:43Z,New York Jets,-115,5.5
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Buffalo Bills,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-105,-5.5
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Los Angeles Chargers,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:36:42Z,New York Jets,195,
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Los Angeles Chargers,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:36:42Z,San Francisco 49ers,-240,
+americanfootball_nfl,NFL,2024-11-17T21:25:00Z,Los Angeles Chargers,Cincinnati Bengals,BetUS,h2h,2024-08-09T01:34:53Z,New York Jets,-110,5.0
+americanfootball_nfl,NFL,2024-11-18T01:15:00Z,New York Jets,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-110,-5.0
+americanfootball_nfl,NFL,2024-11-18T01:15:00Z,New York Jets,Indianapolis Colts,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,190,
+americanfootball_nfl,NFL,2024-11-19T01:15:00Z,Dallas Cowboys,Houston Texans,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-220,
+americanfootball_nfl,NFL,2024-11-19T01:15:00Z,Dallas Cowboys,Houston Texans,Caesars,h2h,2024-08-09T01:34:53Z,New York Jets,-110,4.5
+americanfootball_nfl,NFL,2024-11-22T01:15:00Z,Cleveland Browns,Pittsburgh Steelers,DraftKings,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-110,-4.5
+americanfootball_nfl,NFL,2024-11-22T01:15:00Z,Cleveland Browns,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,190,
+americanfootball_nfl,NFL,2024-11-22T01:15:00Z,Cleveland Browns,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-220,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Carolina Panthers,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:34:53Z,New York Jets,-105,4.5
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Carolina Panthers,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:36:43Z,San Francisco 49ers,-105,-4.5
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Carolina Panthers,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:36:43Z,New York Jets,192,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Chicago Bears,Minnesota Vikings,DraftKings,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-235,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Chicago Bears,Minnesota Vikings,Caesars,spreads,2024-08-09T01:34:53Z,New York Jets,-110,5.0
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Washington Commanders,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:36:43Z,San Francisco 49ers,-110,-5.0
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Washington Commanders,Dallas Cowboys,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,200,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Indianapolis Colts,Detroit Lions,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-250,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Indianapolis Colts,Detroit Lions,Caesars,h2h,2024-08-09T01:34:53Z,New York Jets,-105,5.5
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Houston Texans,Tennessee Titans,DraftKings,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-115,-5.5
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Houston Texans,Tennessee Titans,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,179,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Miami Dolphins,New England Patriots,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-236,
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,Miami Dolphins,New England Patriots,Caesars,h2h,2024-08-09T01:34:53Z,New York Jets,-112,5.0
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,New York Giants,Tampa Bay Buccaneers,DraftKings,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-109,-5.0
+americanfootball_nfl,NFL,2024-11-24T18:00:00Z,New York Giants,Tampa Bay Buccaneers,Caesars,h2h,2024-08-09T01:36:43Z,New York Jets,195,
+americanfootball_nfl,NFL,2024-11-24T21:05:00Z,Las Vegas Raiders,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-235,
+americanfootball_nfl,NFL,2024-11-24T21:05:00Z,Las Vegas Raiders,Denver Broncos,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,-110,5.0
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Seattle Seahawks,Arizona Cardinals,DraftKings,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-110,-5.0
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Seattle Seahawks,Arizona Cardinals,Caesars,spreads,2024-08-09T01:34:53Z,New York Jets,195,
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Seattle Seahawks,Arizona Cardinals,BetUS,h2h,2024-08-09T01:36:43Z,San Francisco 49ers,-235,
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Green Bay Packers,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:36:43Z,New York Jets,-110,5.0
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Green Bay Packers,San Francisco 49ers,Caesars,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-110,-5.0
+americanfootball_nfl,NFL,2024-11-24T21:25:00Z,Green Bay Packers,San Francisco 49ers,BetUS,h2h,2024-08-09T01:34:53Z,Buffalo Bills,-108,
+americanfootball_nfl,NFL,2024-11-25T01:20:00Z,Los Angeles Rams,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-108,
+americanfootball_nfl,NFL,2024-11-25T01:20:00Z,Los Angeles Rams,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-124,1.5
+americanfootball_nfl,NFL,2024-11-25T01:20:00Z,Los Angeles Rams,Philadelphia Eagles,BetUS,spreads,2024-08-09T01:36:43Z,Miami Dolphins,102,-1.5
+americanfootball_nfl,NFL,2024-11-26T01:15:00Z,Los Angeles Chargers,Baltimore Ravens,DraftKings,h2h,2024-08-09T01:34:53Z,Buffalo Bills,-105,
+americanfootball_nfl,NFL,2024-11-26T01:15:00Z,Los Angeles Chargers,Baltimore Ravens,Caesars,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-115,
+americanfootball_nfl,NFL,2024-11-26T01:15:00Z,Los Angeles Chargers,Baltimore Ravens,BetUS,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-110,1.0
+americanfootball_nfl,NFL,2024-11-28T17:30:00Z,Detroit Lions,Chicago Bears,DraftKings,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-110,-1.0
+americanfootball_nfl,NFL,2024-11-28T17:30:00Z,Detroit Lions,Chicago Bears,Caesars,h2h,2024-08-09T01:34:53Z,Buffalo Bills,-110,
+americanfootball_nfl,NFL,2024-11-28T17:30:00Z,Detroit Lions,Chicago Bears,BetMGM,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-110,
+americanfootball_nfl,NFL,2024-11-28T21:30:00Z,Dallas Cowboys,New York Giants,DraftKings,h2h,2024-08-09T01:36:43Z,Buffalo Bills,-117,1.0
+americanfootball_nfl,NFL,2024-11-28T21:30:00Z,Dallas Cowboys,New York Giants,Caesars,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-105,-1.0
+americanfootball_nfl,NFL,2024-11-28T21:30:00Z,Dallas Cowboys,New York Giants,BetMGM,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-105,
+americanfootball_nfl,NFL,2024-11-29T01:20:00Z,Green Bay Packers,Miami Dolphins,DraftKings,h2h,2024-08-09T01:34:53Z,Miami Dolphins,-115,
+americanfootball_nfl,NFL,2024-11-29T01:20:00Z,Green Bay Packers,Miami Dolphins,Caesars,spreads,2024-08-09T01:34:53Z,Buffalo Bills,-110,1.0
+americanfootball_nfl,NFL,2024-11-29T01:20:00Z,Green Bay Packers,Miami Dolphins,BetMGM,h2h,2024-08-09T01:36:43Z,Miami Dolphins,-110,-1.0
+americanfootball_nfl,NFL,2024-11-29T20:00:00Z,Kansas City Chiefs,Las Vegas Raiders,DraftKings,spreads,2024-08-09T01:36:43Z,Buffalo Bills,-105,
+americanfootball_nfl,NFL,2024-11-29T20:00:00Z,Kansas City Chiefs,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:43Z,Miami Dolphins,-115,
+americanfootball_nfl,NFL,2024-11-29T20:00:00Z,Kansas City Chiefs,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:34:53Z,Buffalo Bills,-110,1.0
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Minnesota Vikings,Arizona Cardinals,DraftKings,spreads,2024-08-09T01:34:53Z,Miami Dolphins,-110,-1.0
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Minnesota Vikings,Arizona Cardinals,Caesars,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-360,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Minnesota Vikings,Arizona Cardinals,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,285,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Atlanta Falcons,Los Angeles Chargers,DraftKings,spreads,2024-08-09T01:36:43Z,Baltimore Ravens,-110,-7.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Atlanta Falcons,Los Angeles Chargers,Caesars,h2h,2024-08-09T01:34:53Z,Las Vegas Raiders,-110,7.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Cincinnati Bengals,Pittsburgh Steelers,DraftKings,spreads,2024-08-09T01:34:53Z,Baltimore Ravens,-400,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Cincinnati Bengals,Pittsburgh Steelers,Caesars,h2h,2024-08-09T01:36:43Z,Las Vegas Raiders,310,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Cincinnati Bengals,Pittsburgh Steelers,BetUS,spreads,2024-08-09T01:36:43Z,Baltimore Ravens,-110,-8.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Jacksonville Jaguars,Houston Texans,DraftKings,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-110,8.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Jacksonville Jaguars,Houston Texans,Caesars,h2h,2024-08-09T01:34:53Z,Baltimore Ravens,-375,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,New England Patriots,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:34:53Z,Las Vegas Raiders,285,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,New England Patriots,Indianapolis Colts,Caesars,h2h,2024-08-09T01:36:43Z,Baltimore Ravens,-109,-8.0
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,New England Patriots,Indianapolis Colts,BetUS,spreads,2024-08-09T01:36:43Z,Las Vegas Raiders,-112,8.0
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,New York Jets,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:36:43Z,Baltimore Ravens,-110,-7.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,New York Jets,Seattle Seahawks,Caesars,h2h,2024-08-09T01:36:42Z,Las Vegas Raiders,-110,7.5
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Washington Commanders,Tennessee Titans,DraftKings,spreads,2024-08-09T01:36:42Z,Carolina Panthers,145,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Washington Commanders,Tennessee Titans,Caesars,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-175,
+americanfootball_nfl,NFL,2024-12-01T18:00:00Z,Washington Commanders,Tennessee Titans,BetUS,spreads,2024-08-09T01:34:53Z,Carolina Panthers,100,3.0
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,DraftKings,h2h,2024-08-09T01:36:43Z,Los Angeles Chargers,-120,-3.0
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,Caesars,spreads,2024-08-09T01:36:43Z,Carolina Panthers,162,
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,BetUS,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-195,
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,New Orleans Saints,Los Angeles Rams,DraftKings,h2h,2024-08-09T01:34:53Z,Carolina Panthers,-110,4.0
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,New Orleans Saints,Los Angeles Rams,Caesars,spreads,2024-08-09T01:34:53Z,Los Angeles Chargers,-110,-4.0
+americanfootball_nfl,NFL,2024-12-01T21:05:00Z,New Orleans Saints,Los Angeles Rams,BetUS,h2h,2024-08-09T01:36:43Z,Carolina Panthers,153,
+americanfootball_nfl,NFL,2024-12-01T21:25:00Z,Baltimore Ravens,Philadelphia Eagles,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Chargers,-190,
+americanfootball_nfl,NFL,2024-12-01T21:25:00Z,Baltimore Ravens,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Carolina Panthers,-110,3.5
+americanfootball_nfl,NFL,2024-12-01T21:25:00Z,Baltimore Ravens,Philadelphia Eagles,BetUS,h2h,2024-08-09T01:34:53Z,Los Angeles Chargers,-110,-3.5
+americanfootball_nfl,NFL,2024-12-02T01:20:00Z,Buffalo Bills,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:34:53Z,Carolina Panthers,100,3.0
+americanfootball_nfl,NFL,2024-12-02T01:20:00Z,Buffalo Bills,San Francisco 49ers,Caesars,h2h,2024-08-09T01:36:43Z,Los Angeles Chargers,-120,-3.0
+americanfootball_nfl,NFL,2024-12-03T00:15:00Z,Denver Broncos,Cleveland Browns,DraftKings,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-105,
+americanfootball_nfl,NFL,2024-12-03T00:15:00Z,Denver Broncos,Cleveland Browns,Caesars,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-115,
+americanfootball_nfl,NFL,2024-12-06T01:15:00Z,Detroit Lions,Green Bay Packers,DraftKings,h2h,2024-08-09T01:34:53Z,Cleveland Browns,-110,1.0
+americanfootball_nfl,NFL,2024-12-06T01:15:00Z,Detroit Lions,Green Bay Packers,Caesars,spreads,2024-08-09T01:34:53Z,Jacksonville Jaguars,-110,-1.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Minnesota Vikings,Atlanta Falcons,DraftKings,h2h,2024-08-09T01:36:43Z,Cleveland Browns,-110,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Minnesota Vikings,Atlanta Falcons,Caesars,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Philadelphia Eagles,Carolina Panthers,DraftKings,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-110,-0.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Philadelphia Eagles,Carolina Panthers,Caesars,h2h,2024-08-09T01:34:53Z,Jacksonville Jaguars,-110,0.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Philadelphia Eagles,Carolina Panthers,BetUS,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-110,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Pittsburgh Steelers,Cleveland Browns,DraftKings,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Pittsburgh Steelers,Cleveland Browns,Caesars,spreads,2024-08-09T01:36:43Z,Cleveland Browns,-105,-1.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Pittsburgh Steelers,Cleveland Browns,BetUS,h2h,2024-08-09T01:34:53Z,Jacksonville Jaguars,-117,1.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tennessee Titans,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:34:53Z,Cleveland Browns,-110,1.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tennessee Titans,Jacksonville Jaguars,Caesars,spreads,2024-08-09T01:36:43Z,Jacksonville Jaguars,-110,-1.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tennessee Titans,Jacksonville Jaguars,BetUS,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-258,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tampa Bay Buccaneers,Las Vegas Raiders,DraftKings,h2h,2024-08-09T01:34:53Z,New Orleans Saints,210,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tampa Bay Buccaneers,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:34:53Z,Dallas Cowboys,-110,-6.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Tampa Bay Buccaneers,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:36:43Z,New Orleans Saints,-110,6.0
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Miami Dolphins,New York Jets,DraftKings,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-305,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,Miami Dolphins,New York Jets,Caesars,spreads,2024-08-09T01:36:43Z,New Orleans Saints,240,
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,New York Giants,New Orleans Saints,DraftKings,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,-110,-6.5
+americanfootball_nfl,NFL,2024-12-08T18:00:00Z,New York Giants,New Orleans Saints,Caesars,spreads,2024-08-09T01:34:53Z,New Orleans Saints,-110,6.5
+americanfootball_nfl,NFL,2024-12-08T21:05:00Z,Arizona Cardinals,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:36:43Z,Dallas Cowboys,-265,
+americanfootball_nfl,NFL,2024-12-08T21:05:00Z,Arizona Cardinals,Seattle Seahawks,Caesars,spreads,2024-08-09T01:36:43Z,New Orleans Saints,205,
+americanfootball_nfl,NFL,2024-12-08T21:05:00Z,Arizona Cardinals,Seattle Seahawks,BetUS,h2h,2024-08-09T01:34:53Z,Dallas Cowboys,-109,-6.0
+americanfootball_nfl,NFL,2024-12-08T21:25:00Z,Los Angeles Rams,Buffalo Bills,DraftKings,spreads,2024-08-09T01:34:53Z,New Orleans Saints,-112,6.0
+americanfootball_nfl,NFL,2024-12-08T21:25:00Z,Los Angeles Rams,Buffalo Bills,Caesars,h2h,2024-08-09T01:36:43Z,Dallas Cowboys,-110,-6.0
+americanfootball_nfl,NFL,2024-12-08T21:25:00Z,San Francisco 49ers,Chicago Bears,DraftKings,spreads,2024-08-09T01:36:43Z,New Orleans Saints,-110,6.0
+americanfootball_nfl,NFL,2024-12-08T21:25:00Z,San Francisco 49ers,Chicago Bears,Caesars,spreads,2024-08-09T01:36:43Z,Detroit Lions,-285,
+americanfootball_nfl,NFL,2024-12-09T01:20:00Z,Kansas City Chiefs,Los Angeles Chargers,DraftKings,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,230,
+americanfootball_nfl,NFL,2024-12-09T01:20:00Z,Kansas City Chiefs,Los Angeles Chargers,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-115,-6.0
+americanfootball_nfl,NFL,2024-12-09T01:20:00Z,Kansas City Chiefs,Los Angeles Chargers,BetUS,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-105,6.0
+americanfootball_nfl,NFL,2024-12-10T01:15:00Z,Dallas Cowboys,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:34:53Z,Detroit Lions,-250,
+americanfootball_nfl,NFL,2024-12-10T01:15:00Z,Dallas Cowboys,Cincinnati Bengals,Caesars,spreads,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,205,
+americanfootball_nfl,NFL,2024-12-13T01:15:00Z,San Francisco 49ers,Los Angeles Rams,DraftKings,h2h,2024-08-09T01:36:43Z,Detroit Lions,-110,-5.5
+americanfootball_nfl,NFL,2024-12-13T01:15:00Z,San Francisco 49ers,Los Angeles Rams,Caesars,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-110,5.5
+americanfootball_nfl,NFL,2024-12-13T01:15:00Z,San Francisco 49ers,Los Angeles Rams,BetUS,spreads,2024-08-09T01:36:43Z,Detroit Lions,-250,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,New York Giants,Baltimore Ravens,DraftKings,h2h,2024-08-09T01:34:53Z,Tampa Bay Buccaneers,200,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,New York Giants,Baltimore Ravens,Caesars,spreads,2024-08-09T01:34:53Z,Detroit Lions,-112,-5.5
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Carolina Panthers,Dallas Cowboys,DraftKings,spreads,2024-08-09T01:36:43Z,Tampa Bay Buccaneers,-109,5.5
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Carolina Panthers,Dallas Cowboys,Caesars,h2h,2024-08-09T01:34:53Z,Green Bay Packers,-192,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Tennessee Titans,Cincinnati Bengals,DraftKings,spreads,2024-08-09T01:34:53Z,Indianapolis Colts,160,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Tennessee Titans,Cincinnati Bengals,Caesars,h2h,2024-08-09T01:36:43Z,Green Bay Packers,-108,-4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Tennessee Titans,Cincinnati Bengals,BetUS,spreads,2024-08-09T01:36:43Z,Indianapolis Colts,-112,4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Cleveland Browns,Kansas City Chiefs,DraftKings,spreads,2024-08-09T01:36:43Z,Green Bay Packers,-210,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Cleveland Browns,Kansas City Chiefs,Caesars,h2h,2024-08-09T01:34:53Z,Indianapolis Colts,175,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Cleveland Browns,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:34:53Z,Green Bay Packers,-110,-4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Houston Texans,Miami Dolphins,DraftKings,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,-110,4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Houston Texans,Miami Dolphins,Caesars,spreads,2024-08-09T01:36:43Z,Green Bay Packers,-210,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Jacksonville Jaguars,New York Jets,DraftKings,h2h,2024-08-09T01:36:43Z,Indianapolis Colts,170,
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,Jacksonville Jaguars,New York Jets,Caesars,spreads,2024-08-09T01:36:43Z,Green Bay Packers,-110,-4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,New Orleans Saints,Washington Commanders,DraftKings,spreads,2024-08-09T01:36:43Z,Indianapolis Colts,-110,4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,New Orleans Saints,Washington Commanders,Caesars,h2h,2024-08-09T01:36:42Z,Green Bay Packers,-105,-4.0
+americanfootball_nfl,NFL,2024-12-15T18:00:00Z,New Orleans Saints,Washington Commanders,BetUS,spreads,2024-08-09T01:36:42Z,Indianapolis Colts,-115,4.0
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Arizona Cardinals,New England Patriots,DraftKings,h2h,2024-08-09T01:34:53Z,Minnesota Vikings,210,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Arizona Cardinals,New England Patriots,Caesars,spreads,2024-08-09T01:34:53Z,San Francisco 49ers,-258,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Arizona Cardinals,New England Patriots,BetUS,h2h,2024-08-09T01:36:43Z,Minnesota Vikings,-110,6.0
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Detroit Lions,Buffalo Bills,DraftKings,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-110,-6.0
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Detroit Lions,Buffalo Bills,Caesars,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,235,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Denver Broncos,Indianapolis Colts,DraftKings,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-292,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Denver Broncos,Indianapolis Colts,Caesars,spreads,2024-08-09T01:34:53Z,Minnesota Vikings,-110,7.0
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Los Angeles Chargers,Tampa Bay Buccaneers,DraftKings,h2h,2024-08-09T01:36:43Z,San Francisco 49ers,-110,-7.0
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Los Angeles Chargers,Tampa Bay Buccaneers,Caesars,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,230,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Los Angeles Chargers,Tampa Bay Buccaneers,BetUS,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-286,
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Philadelphia Eagles,Pittsburgh Steelers,DraftKings,spreads,2024-08-09T01:34:53Z,Minnesota Vikings,-109,6.5
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Philadelphia Eagles,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:36:43Z,San Francisco 49ers,-112,-6.5
+americanfootball_nfl,NFL,2024-12-15T21:25:00Z,Philadelphia Eagles,Pittsburgh Steelers,BetUS,spreads,2024-08-09T01:36:43Z,Minnesota Vikings,-110,6.0
+americanfootball_nfl,NFL,2024-12-16T01:20:00Z,Seattle Seahawks,Green Bay Packers,DraftKings,h2h,2024-08-09T01:34:53Z,San Francisco 49ers,-110,-6.0
+americanfootball_nfl,NFL,2024-12-16T01:20:00Z,Seattle Seahawks,Green Bay Packers,Caesars,spreads,2024-08-09T01:34:53Z,New England Patriots,124,
+americanfootball_nfl,NFL,2024-12-16T01:20:00Z,Seattle Seahawks,Green Bay Packers,BetUS,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-148,
+americanfootball_nfl,NFL,2024-12-17T01:00:00Z,Minnesota Vikings,Chicago Bears,DraftKings,spreads,2024-08-09T01:36:43Z,New England Patriots,100,2.5
+americanfootball_nfl,NFL,2024-12-17T01:00:00Z,Minnesota Vikings,Chicago Bears,Caesars,h2h,2024-08-09T01:34:53Z,Seattle Seahawks,-120,-2.5
+americanfootball_nfl,NFL,2024-12-17T01:30:00Z,Las Vegas Raiders,Atlanta Falcons,DraftKings,spreads,2024-08-09T01:34:53Z,New England Patriots,130,
+americanfootball_nfl,NFL,2024-12-17T01:30:00Z,Las Vegas Raiders,Atlanta Falcons,Caesars,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-155,
+americanfootball_nfl,NFL,2024-12-20T01:15:00Z,Cincinnati Bengals,Cleveland Browns,DraftKings,spreads,2024-08-09T01:36:43Z,New England Patriots,-105,2.5
+americanfootball_nfl,NFL,2024-12-20T01:15:00Z,Cincinnati Bengals,Cleveland Browns,Caesars,h2h,2024-08-09T01:34:53Z,Seattle Seahawks,-115,-2.5
+americanfootball_nfl,NFL,2024-12-20T01:15:00Z,Cincinnati Bengals,Cleveland Browns,BetUS,spreads,2024-08-09T01:34:53Z,New England Patriots,123,
+americanfootball_nfl,NFL,2024-12-21T18:00:00Z,Kansas City Chiefs,Houston Texans,DraftKings,spreads,2024-08-09T01:36:43Z,Seattle Seahawks,-150,
+americanfootball_nfl,NFL,2024-12-21T18:00:00Z,Kansas City Chiefs,Houston Texans,Caesars,spreads,2024-08-09T01:36:43Z,New England Patriots,-112,2.5
+americanfootball_nfl,NFL,2024-12-21T21:30:00Z,Baltimore Ravens,Pittsburgh Steelers,DraftKings,h2h,2024-08-09T01:34:53Z,Seattle Seahawks,-109,-2.5
+americanfootball_nfl,NFL,2024-12-21T21:30:00Z,Baltimore Ravens,Pittsburgh Steelers,Caesars,spreads,2024-08-09T01:34:53Z,New England Patriots,100,2.5
+americanfootball_nfl,NFL,2024-12-21T21:30:00Z,Baltimore Ravens,Pittsburgh Steelers,BetUS,h2h,2024-08-09T01:36:43Z,Seattle Seahawks,-120,-2.5
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Carolina Panthers,Arizona Cardinals,DraftKings,spreads,2024-08-09T01:36:43Z,New York Giants,120,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Carolina Panthers,Arizona Cardinals,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,-142,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Carolina Panthers,Arizona Cardinals,BetUS,h2h,2024-08-09T01:34:53Z,New York Giants,-120,3.0
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Atlanta Falcons,New York Giants,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,100,-3.0
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Atlanta Falcons,New York Giants,Caesars,h2h,2024-08-09T01:36:43Z,New York Giants,122,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Buffalo Bills,New England Patriots,DraftKings,spreads,2024-08-09T01:36:43Z,Washington Commanders,-145,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Buffalo Bills,New England Patriots,Caesars,spreads,2024-08-09T01:36:43Z,New York Giants,-110,2.5
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Chicago Bears,Detroit Lions,DraftKings,h2h,2024-08-09T01:34:53Z,Washington Commanders,-110,-2.5
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Chicago Bears,Detroit Lions,Caesars,spreads,2024-08-09T01:34:53Z,New York Giants,123,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Indianapolis Colts,Tennessee Titans,DraftKings,h2h,2024-08-09T01:36:43Z,Washington Commanders,-150,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Indianapolis Colts,Tennessee Titans,Caesars,spreads,2024-08-09T01:36:43Z,New York Giants,-106,2.5
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Indianapolis Colts,Tennessee Titans,BetUS,spreads,2024-08-09T01:36:43Z,Washington Commanders,-115,-2.5
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,New York Jets,Los Angeles Rams,DraftKings,h2h,2024-08-09T01:36:43Z,New York Giants,-120,3.0
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,New York Jets,Los Angeles Rams,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,100,-3.0
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Washington Commanders,Philadelphia Eagles,DraftKings,h2h,2024-08-09T01:36:43Z,New York Giants,115,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Washington Commanders,Philadelphia Eagles,Caesars,spreads,2024-08-09T01:36:43Z,Washington Commanders,-135,
+americanfootball_nfl,NFL,2024-12-22T18:00:00Z,Washington Commanders,Philadelphia Eagles,BetUS,h2h,2024-08-09T01:34:53Z,New York Giants,-120,3.0
+americanfootball_nfl,NFL,2024-12-22T21:05:00Z,Los Angeles Chargers,Denver Broncos,DraftKings,spreads,2024-08-09T01:34:53Z,Washington Commanders,100,-3.0
+americanfootball_nfl,NFL,2024-12-22T21:05:00Z,Los Angeles Chargers,Denver Broncos,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,-198,
+americanfootball_nfl,NFL,2024-12-22T21:05:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,h2h,2024-08-09T01:36:42Z,Tennessee Titans,164,
+americanfootball_nfl,NFL,2024-12-22T21:05:00Z,Seattle Seahawks,Minnesota Vikings,Caesars,spreads,2024-08-09T01:36:42Z,New York Jets,-110,-4.0
+americanfootball_nfl,NFL,2024-12-22T21:05:00Z,Seattle Seahawks,Minnesota Vikings,BetUS,h2h,2024-08-09T01:34:53Z,Tennessee Titans,-110,4.0
+americanfootball_nfl,NFL,2024-12-22T21:25:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:34:53Z,New York Jets,-175,
+americanfootball_nfl,NFL,2024-12-22T21:25:00Z,Las Vegas Raiders,Jacksonville Jaguars,Caesars,spreads,2024-08-09T01:36:43Z,Tennessee Titans,148,
+americanfootball_nfl,NFL,2024-12-22T21:25:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,h2h,2024-08-09T01:34:53Z,New York Jets,-110,-3.5
+americanfootball_nfl,NFL,2024-12-22T21:25:00Z,Miami Dolphins,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:34:53Z,Tennessee Titans,-110,3.5
+americanfootball_nfl,NFL,2024-12-22T21:25:00Z,Miami Dolphins,San Francisco 49ers,Caesars,h2h,2024-08-09T01:36:43Z,New York Jets,-177,
+americanfootball_nfl,NFL,2024-12-23T01:20:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,spreads,2024-08-09T01:36:43Z,Tennessee Titans,143,
+americanfootball_nfl,NFL,2024-12-23T01:20:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Caesars,spreads,2024-08-09T01:36:43Z,New York Jets,-112,-3.5
+americanfootball_nfl,NFL,2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,h2h,2024-08-09T01:34:53Z,Tennessee Titans,-109,3.5
+americanfootball_nfl,NFL,2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Caesars,spreads,2024-08-09T01:34:53Z,Arizona Cardinals,114,
+americanfootball_nfl,NFL,2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-135,
+americanfootball_nfl,NFL,2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,spreads,2024-08-09T01:36:43Z,Arizona Cardinals,-110,2.5
+americanfootball_nfl,NFL,2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,-110,-2.5
+americanfootball_nfl,NFL,2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Caesars,spreads,2024-08-09T01:34:53Z,Arizona Cardinals,105,
+americanfootball_nfl,NFL,2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,h2h,2024-08-09T01:36:43Z,Los Angeles Rams,-125,
+americanfootball_nfl,NFL,2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,spreads,2024-08-09T01:36:43Z,Arizona Cardinals,-110,1.5
+americanfootball_nfl,NFL,2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-110,-1.5
+americanfootball_nfl,NFL,2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Caesars,h2h,2024-08-09T01:34:53Z,Arizona Cardinals,120,
+americanfootball_nfl,NFL,2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,spreads,2024-08-09T01:34:53Z,Los Angeles Rams,-148,
+americanfootball_nfl,NFL,2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetMGM,h2h,2024-08-09T01:36:43Z,Arizona Cardinals,-117,3.0
+americanfootball_nfl,NFL,2024-12-27T01:15:00Z,Chicago Bears,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:36:43Z,Los Angeles Rams,-105,-3.0
+americanfootball_nfl,NFL,2024-12-27T01:15:00Z,Chicago Bears,Seattle Seahawks,Caesars,spreads,2024-08-09T01:36:43Z,Arizona Cardinals,-110,2.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Washington Commanders,Atlanta Falcons,DraftKings,h2h,2024-08-09T01:34:53Z,Los Angeles Rams,-110,-2.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Washington Commanders,Atlanta Falcons,Caesars,spreads,2024-08-09T01:34:53Z,Cincinnati Bengals,160,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Buffalo Bills,New York Jets,DraftKings,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-192,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Buffalo Bills,New York Jets,Caesars,spreads,2024-08-09T01:36:43Z,Cincinnati Bengals,-108,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,h2h,2024-08-09T01:34:53Z,Kansas City Chiefs,-112,-3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Tampa Bay Buccaneers,Carolina Panthers,Caesars,spreads,2024-08-09T01:34:53Z,Cincinnati Bengals,165,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetUS,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-200,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,spreads,2024-08-09T01:36:43Z,Cincinnati Bengals,-109,4.0
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Cincinnati Bengals,Denver Broncos,Caesars,h2h,2024-08-09T01:34:53Z,Kansas City Chiefs,-112,-4.0
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Minnesota Vikings,Green Bay Packers,DraftKings,spreads,2024-08-09T01:34:53Z,Cincinnati Bengals,-120,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Minnesota Vikings,Green Bay Packers,Caesars,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,100,-3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Minnesota Vikings,Green Bay Packers,BetUS,h2h,2024-08-09T01:34:53Z,Cincinnati Bengals,-116,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New York Giants,Indianapolis Colts,DraftKings,spreads,2024-08-09T01:34:53Z,Kansas City Chiefs,105,-3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New York Giants,Indianapolis Colts,Caesars,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,158,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,DraftKings,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-188,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,Caesars,h2h,2024-08-09T01:34:53Z,Cincinnati Bengals,-110,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,BetUS,spreads,2024-08-09T01:34:53Z,Kansas City Chiefs,-110,-3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New Orleans Saints,Las Vegas Raiders,DraftKings,spreads,2024-08-09T01:36:43Z,Cincinnati Bengals,162,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New Orleans Saints,Las Vegas Raiders,Caesars,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-195,
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New Orleans Saints,Las Vegas Raiders,BetUS,h2h,2024-08-09T01:34:53Z,Cincinnati Bengals,-110,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New England Patriots,Los Angeles Chargers,DraftKings,spreads,2024-08-09T01:34:53Z,Kansas City Chiefs,-110,-3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New England Patriots,Los Angeles Chargers,Caesars,h2h,2024-08-09T01:36:43Z,Cincinnati Bengals,-105,3.5
+americanfootball_nfl,NFL,2024-12-29T18:00:00Z,New England Patriots,Los Angeles Chargers,BetUS,spreads,2024-08-09T01:36:43Z,Kansas City Chiefs,-115,-3.5
+americanfootball_nfl,NFL,2024-12-29T21:05:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,spreads,2024-08-09T01:36:43Z,Cincinnati Bengals,160,
+americanfootball_nfl,NFL,2024-12-29T21:05:00Z,Los Angeles Rams,Arizona Cardinals,Caesars,h2h,2024-08-09T01:34:53Z,Kansas City Chiefs,-185,
+americanfootball_nfl,NFL,2024-12-29T21:05:00Z,Los Angeles Rams,Arizona Cardinals,BetUS,spreads,2024-08-09T01:34:53Z,Cincinnati Bengals,-110,3.5
+americanfootball_nfl,NFL,2024-12-29T21:25:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,h2h,2024-08-09T01:36:43Z,Kansas City Chiefs,-110,-3.5
+americanfootball_nfl,NFL,2024-12-29T21:25:00Z,Philadelphia Eagles,Dallas Cowboys,Caesars,spreads,2024-08-09T01:36:43Z,Denver Broncos,140,
+americanfootball_nfl,NFL,2024-12-30T01:20:00Z,Cleveland Browns,Miami Dolphins,DraftKings,h2h,2024-08-09T01:34:53Z,Pittsburgh Steelers,-166,
+americanfootball_nfl,NFL,2024-12-30T01:20:00Z,Cleveland Browns,Miami Dolphins,Caesars,spreads,2024-08-09T01:34:53Z,Denver Broncos,-102,3.0
+americanfootball_nfl,NFL,2024-12-31T01:15:00Z,San Francisco 49ers,Detroit Lions,DraftKings,h2h,2024-08-09T01:36:43Z,Pittsburgh Steelers,-118,-3.0
+americanfootball_nfl,NFL,2024-12-31T01:15:00Z,San Francisco 49ers,Detroit Lions,Caesars,spreads,2024-08-09T01:36:43Z,Denver Broncos,130,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Atlanta Falcons,Carolina Panthers,DraftKings,h2h,2024-08-09T01:34:53Z,Pittsburgh Steelers,-155,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Baltimore Ravens,Cleveland Browns,DraftKings,spreads,2024-08-09T01:34:53Z,Denver Broncos,-110,3.5
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Baltimore Ravens,Cleveland Browns,BetUS,h2h,2024-08-09T01:36:43Z,Pittsburgh Steelers,-110,-3.5
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,New England Patriots,Buffalo Bills,DraftKings,spreads,2024-08-09T01:36:43Z,Denver Broncos,125,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Green Bay Packers,Chicago Bears,DraftKings,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,-152,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,DraftKings,h2h,2024-08-09T01:34:53Z,Denver Broncos,-112,3.0
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Pittsburgh Steelers,Cincinnati Bengals,BetUS,spreads,2024-08-09T01:34:53Z,Pittsburgh Steelers,-109,-3.0
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Dallas Cowboys,Washington Commanders,DraftKings,spreads,2024-08-09T01:36:43Z,Denver Broncos,100,3.0
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Detroit Lions,Minnesota Vikings,DraftKings,spreads,2024-08-09T01:36:43Z,Pittsburgh Steelers,-120,-3.0
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Tennessee Titans,Houston Texans,DraftKings,h2h,2024-08-09T01:34:53Z,Chicago Bears,150,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Indianapolis Colts,Jacksonville Jaguars,DraftKings,spreads,2024-08-09T01:34:53Z,Houston Texans,-180,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Indianapolis Colts,Jacksonville Jaguars,BetUS,spreads,2024-08-09T01:36:43Z,Chicago Bears,-110,3.5
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,New York Jets,Miami Dolphins,DraftKings,spreads,2024-08-09T01:36:43Z,Houston Texans,-110,-3.5
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Tampa Bay Buccaneers,New Orleans Saints,DraftKings,h2h,2024-08-09T01:34:53Z,Chicago Bears,170,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Tampa Bay Buccaneers,New Orleans Saints,BetUS,spreads,2024-08-09T01:34:53Z,Houston Texans,-205,
+americanfootball_nfl,NFL,2025-01-05T18:00:00Z,Philadelphia Eagles,New York Giants,DraftKings,h2h,2024-08-09T01:36:43Z,Chicago Bears,-110,4.0
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Arizona Cardinals,San Francisco 49ers,DraftKings,spreads,2024-08-09T01:36:43Z,Houston Texans,-110,-4.0
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Arizona Cardinals,San Francisco 49ers,BetUS,spreads,2024-08-09T01:36:43Z,Chicago Bears,155,
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Denver Broncos,Kansas City Chiefs,DraftKings,h2h,2024-08-09T01:36:43Z,Houston Texans,-190,
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Las Vegas Raiders,Los Angeles Chargers,DraftKings,spreads,2024-08-09T01:36:43Z,Chicago Bears,-112,4.0
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Las Vegas Raiders,Los Angeles Chargers,BetUS,h2h,2024-08-09T01:34:53Z,Houston Texans,-109,-4.0
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Los Angeles Rams,Seattle Seahawks,DraftKings,spreads,2024-08-09T01:34:53Z,Atlanta Falcons,148,
+americanfootball_nfl,NFL,2025-01-05T21:25:00Z,Los Angeles Rams,Seattle Seahawks,BetUS,h2h,2024-08-09T01:36:43Z,Philadelphia Eagles,-176,
